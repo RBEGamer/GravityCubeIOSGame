@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SCRIPT\BackgroundMusicScript.cs">
+    <Files>
+      <File FileName="Assets\SCRIPT\IntroMusic.cs" Line="17" Column="2" />
+      <File FileName="Assets\SCRIPT\BackgroundMusicScript.cs" Line="50" Column="45" />
+      <File FileName="Assets\SCRIPT\Door_Animation.cs" Line="85" Column="216" />
+      <File FileName="Assets\SCRIPT\LaserSound.cs" Line="27" Column="132" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

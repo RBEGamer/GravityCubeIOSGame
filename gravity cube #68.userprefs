@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SCRIPT\CreditsScreen.cs">
+    <Files>
+      <File FileName="Assets\SCRIPT\CreditsScreen.cs" Line="85" Column="56" />
+      <File FileName="Assets\SCRIPT\BackgroundMusicScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\charakter_animation_manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPT\player.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPT\GUI SCRIPTS\BackToMusicScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPT\GUI SCRIPTS\BACK_TO_MAIN_MENU.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

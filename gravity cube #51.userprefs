@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\new_slider.cs">
+    <Files>
+      <File FileName="Assets\SCRIPT\GUI SCRIPTS\pause_button.cs" Line="34" Column="64" />
+      <File FileName="Assets\SCRIPT\GUI SCRIPTS\show_level.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPT\GUI SCRIPTS\BACK_TO_MAIN_MENU.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPT\level_manager.cs" Line="253" Column="3" />
+      <File FileName="Assets\new_slider.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

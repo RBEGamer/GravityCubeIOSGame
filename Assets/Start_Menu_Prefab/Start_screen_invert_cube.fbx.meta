@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 66632afff6f85694794c6831ba22d6e1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bend1Handle
+    100002: bend2Handle
+    100004: Cube_animation_g
+    100006: directionalLight1
+    100008: directionalLight2
+    100010: directionalLight3
+    100012: nurbsCube1
+    100014: pCube14
+    100016: pCube53
+    100018: pCube9
+    100020: pCylinder2
+    100022: pCylinder4
+    100024: //RootNode
+    100026: transform13
+    100028: transform14
+    100030: transform15
+    100032: transform16
+    100034: twist1Handle
+    400000: bend1Handle
+    400002: bend2Handle
+    400004: Cube_animation_g
+    400006: directionalLight1
+    400008: directionalLight2
+    400010: directionalLight3
+    400012: nurbsCube1
+    400014: pCube14
+    400016: pCube53
+    400018: pCube9
+    400020: pCylinder2
+    400022: pCylinder4
+    400024: //RootNode
+    400026: transform13
+    400028: transform14
+    400030: transform15
+    400032: transform16
+    400034: twist1Handle
+    2300000: pCube53
+    3300000: pCube53
+    4300000: pCube53
+    7400000: Take 001
+    7400002: Start
+    7400004: 1stJump
+    7400006: 2ndJump
+    7400008: 3edJump
+    7400010: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube_animation_g
+        weight: 1
+      - path: Cube_animation_g/nurbsCube1
+        weight: 1
+      - path: Cube_animation_g/pCube9
+        weight: 1
+      - path: Cube_animation_g/pCube9/transform14
+        weight: 1
+      - path: Cube_animation_g/pCube14
+        weight: 1
+      - path: Cube_animation_g/pCube14/transform16
+        weight: 1
+      - path: Cube_animation_g/pCube53
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend1Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend2Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/twist1Handle
+        weight: 1
+      - path: Cube_animation_g/pCylinder2
+        weight: 1
+      - path: Cube_animation_g/pCylinder2/transform15
+        weight: 1
+      - path: Cube_animation_g/pCylinder4
+        weight: 1
+      - path: Cube_animation_g/pCylinder4/transform13
+        weight: 1
+      - path: directionalLight1
+        weight: 1
+      - path: directionalLight2
+        weight: 1
+      - path: directionalLight3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Start
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube_animation_g
+        weight: 1
+      - path: Cube_animation_g/nurbsCube1
+        weight: 1
+      - path: Cube_animation_g/pCube9
+        weight: 1
+      - path: Cube_animation_g/pCube9/transform14
+        weight: 1
+      - path: Cube_animation_g/pCube14
+        weight: 1
+      - path: Cube_animation_g/pCube14/transform16
+        weight: 1
+      - path: Cube_animation_g/pCube53
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend1Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend2Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/twist1Handle
+        weight: 1
+      - path: Cube_animation_g/pCylinder2
+        weight: 1
+      - path: Cube_animation_g/pCylinder2/transform15
+        weight: 1
+      - path: Cube_animation_g/pCylinder4
+        weight: 1
+      - path: Cube_animation_g/pCylinder4/transform13
+        weight: 1
+      - path: directionalLight1
+        weight: 1
+      - path: directionalLight2
+        weight: 1
+      - path: directionalLight3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 1stJump
+      takeName: Take 001
+      firstFrame: 56
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube_animation_g
+        weight: 1
+      - path: Cube_animation_g/nurbsCube1
+        weight: 1
+      - path: Cube_animation_g/pCube9
+        weight: 1
+      - path: Cube_animation_g/pCube9/transform14
+        weight: 1
+      - path: Cube_animation_g/pCube14
+        weight: 1
+      - path: Cube_animation_g/pCube14/transform16
+        weight: 1
+      - path: Cube_animation_g/pCube53
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend1Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend2Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/twist1Handle
+        weight: 1
+      - path: Cube_animation_g/pCylinder2
+        weight: 1
+      - path: Cube_animation_g/pCylinder2/transform15
+        weight: 1
+      - path: Cube_animation_g/pCylinder4
+        weight: 1
+      - path: Cube_animation_g/pCylinder4/transform13
+        weight: 1
+      - path: directionalLight1
+        weight: 1
+      - path: directionalLight2
+        weight: 1
+      - path: directionalLight3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 2ndJump
+      takeName: Take 001
+      firstFrame: 93
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube_animation_g
+        weight: 1
+      - path: Cube_animation_g/nurbsCube1
+        weight: 1
+      - path: Cube_animation_g/pCube9
+        weight: 1
+      - path: Cube_animation_g/pCube9/transform14
+        weight: 1
+      - path: Cube_animation_g/pCube14
+        weight: 1
+      - path: Cube_animation_g/pCube14/transform16
+        weight: 1
+      - path: Cube_animation_g/pCube53
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend1Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend2Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/twist1Handle
+        weight: 1
+      - path: Cube_animation_g/pCylinder2
+        weight: 1
+      - path: Cube_animation_g/pCylinder2/transform15
+        weight: 1
+      - path: Cube_animation_g/pCylinder4
+        weight: 1
+      - path: Cube_animation_g/pCylinder4/transform13
+        weight: 1
+      - path: directionalLight1
+        weight: 1
+      - path: directionalLight2
+        weight: 1
+      - path: directionalLight3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3edJump
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube_animation_g
+        weight: 1
+      - path: Cube_animation_g/nurbsCube1
+        weight: 1
+      - path: Cube_animation_g/pCube9
+        weight: 1
+      - path: Cube_animation_g/pCube9/transform14
+        weight: 1
+      - path: Cube_animation_g/pCube14
+        weight: 1
+      - path: Cube_animation_g/pCube14/transform16
+        weight: 1
+      - path: Cube_animation_g/pCube53
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend1Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend2Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/twist1Handle
+        weight: 1
+      - path: Cube_animation_g/pCylinder2
+        weight: 1
+      - path: Cube_animation_g/pCylinder2/transform15
+        weight: 1
+      - path: Cube_animation_g/pCylinder4
+        weight: 1
+      - path: Cube_animation_g/pCylinder4/transform13
+        weight: 1
+      - path: directionalLight1
+        weight: 1
+      - path: directionalLight2
+        weight: 1
+      - path: directionalLight3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube_animation_g
+        weight: 1
+      - path: Cube_animation_g/nurbsCube1
+        weight: 1
+      - path: Cube_animation_g/pCube9
+        weight: 1
+      - path: Cube_animation_g/pCube9/transform14
+        weight: 1
+      - path: Cube_animation_g/pCube14
+        weight: 1
+      - path: Cube_animation_g/pCube14/transform16
+        weight: 1
+      - path: Cube_animation_g/pCube53
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend1Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/bend2Handle
+        weight: 1
+      - path: Cube_animation_g/pCube53/twist1Handle
+        weight: 1
+      - path: Cube_animation_g/pCylinder2
+        weight: 1
+      - path: Cube_animation_g/pCylinder2/transform15
+        weight: 1
+      - path: Cube_animation_g/pCylinder4
+        weight: 1
+      - path: Cube_animation_g/pCylinder4/transform13
+        weight: 1
+      - path: directionalLight1
+        weight: 1
+      - path: directionalLight2
+        weight: 1
+      - path: directionalLight3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
