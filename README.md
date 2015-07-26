@@ -1,0 +1,2 @@
+# GravityCubeIOSGame
+Gravity Cube ist ein 3D Sideview Rätselspiel mit einer simplen aber fordernden Kernmechanik, die aus rotieren des gesamten Levels besteht. Das rotieren des Levels bewirkt eine Veränderung des Gravitationspunkts, so dass alle Gegenstände zu diesem Punkt hinfallen. Dem Spieler werden Möglichkeiten gegeben die Gravitation spezieller Gegenstände im Spiel zu ändern. Mit dieser Mechanik versucht der Spieler verschiedene Rätsel zu lösen und damit den Ausgangspunkt des Levels freizulegen.
